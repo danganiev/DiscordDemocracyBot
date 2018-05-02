@@ -1,0 +1,12 @@
+{
+  "name": "democracy-bot",
+  "version": "0.1.0",
+  "description": "Democracy discord bot",
+  "main": "bot.js",
+  "author": "Dan Ganiev",
+  "dependencies": {    
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0",
+    "winston": "^2.4.2"
+  }
+}
